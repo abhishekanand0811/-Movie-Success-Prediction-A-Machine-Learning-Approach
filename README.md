@@ -1,4 +1,3 @@
-# -Movie-Success-Prediction-A-Machine-Learning-Approach
 # Movie Success Prediction: A Machine Learning Approach
 
 This study compares the performance of K-Nearest Neighbors (KNN), Decision Tree, SVR, and Linear Regression models in predicting box office patterns using four diverse datasets. The objective is to identify the most accurate model-dataset combination for box office prediction, employing accuracy score as the evaluation metric. The research provides valuable insights for enhancing the film industry by systematically analyzing model outcomes across datasets.
